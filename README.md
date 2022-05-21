@@ -138,7 +138,7 @@ $ ngrok http 5000
 > Já registrado na **twilio**, configure e ative o *WhatsApp Sandbox*: 
 > [*Veja aqui*](https://www.twilio.com/blog/como-acessar-api-whatsapp-com-twilio)
 
-> No console da **twilio**, nas configurações da *Sandbox*, existe com campo chamado **WHEN A MESSAGE COMES IN**.
+> No console da **twilio**, nas configurações da *Sandbox*, existe um campo chamado **WHEN A MESSAGE COMES IN**.
 
 > Cole nele a URL *https://* gerada pelo **ngrok**.
  
