@@ -29,12 +29,12 @@
 </p>
 
 <p align="center">
-  <img alt="" width="300" src="">
+  <img alt="book_search_Web_Scraping" width="300" src="https://res.cloudinary.com/dfph6kr4e/image/upload/v1653152444/Web_Scraping_rwhhu7.gif">
   &nbsp;&nbsp;&nbsp;&nbsp;
   &nbsp;&nbsp;&nbsp;&nbsp;
   &nbsp;&nbsp;&nbsp;&nbsp;
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <img alt="" width="300" src="">
+  <img alt="book_search_Timothy_Keller" width="300" src="https://res.cloudinary.com/dfph6kr4e/image/upload/v1653152445/Timothy_Keller_f8qn1k.gif">
   &nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
@@ -166,10 +166,15 @@ $ ngrok http 5000
 
 ## :bulb: Autor
 
-" Mas foi Deus quem fez a terra com o seu poder, criou o mundo com a sua sabedoria e com a sua inteligência estendeu o céu como se fosse uma coberta."
+<p>
+	"Será que você não sabe?</br>
+	Nunca ouviu falar?</br>
+	O Senhor é o Deus Eterno, ele criou o mundo inteiro.</br>
+	Ele não se cansa nem fica exausto;</br>
+	ninguém pode medir a sua sabedoria."
 
-Jeremias 10.12
-
+Isaías 40.28
+</p>
 
 
 Agradeço a Deus o Pai que por meio de seu Filho Jesus Cristo nos enviou o Espírito Santo que nos ajuda em todas as nossas atividades e trabalhos!
